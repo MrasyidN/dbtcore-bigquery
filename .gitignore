@@ -1,0 +1,8 @@
+# ignore service key goocle cloud big query
+# ignore service key goocle cloud big query
+*.json
+
+# ignore virtual environment
+dbt-venv/
+logs/
+coba_dbtcore/target/
